@@ -1,0 +1,10 @@
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\bin\Debug\BlurEffect.exe.config
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\bin\Debug\BlurEffect.exe
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\bin\Debug\BlurEffect.pdb
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.csproj.AssemblyReference.cache
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.BlurEffect.resources
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.Properties.Resources.resources
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.csproj.GenerateResource.cache
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.csproj.CoreCompileInputs.cache
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.exe
+C:\Users\csxsy\Desktop\BlurEffect\BlurEffect\obj\Debug\BlurEffect.pdb
